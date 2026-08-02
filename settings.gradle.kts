@@ -7,5 +7,5 @@ include(
     "forge_domain",
     "forge_plugin",
     "forge_events",
-    "forge_test",
+    "forge_test"
 )
