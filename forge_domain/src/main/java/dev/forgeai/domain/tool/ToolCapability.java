@@ -1,6 +1,6 @@
 package dev.forgeai.domain.tool;
 
-public enum ToolPermission {
+public enum ToolCapability {
     READ,
     WRITE,
     EXECUTE,
